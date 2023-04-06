@@ -30,5 +30,8 @@ finally{
 System.out.println("Bye");
 }
 }
+
+public void printStackTrace() {
+}
 }
 

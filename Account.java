@@ -2,8 +2,7 @@ class Amount{
 private int acno,balance;
 private String acname,actype;
 
-Amount (int acno,String acname,String actype, int bal)
-{
+Amount (int acno,String acname,String actype, int bal){
 this.acno=acno;
 this.acname=acname;
 this.actype=actype;
